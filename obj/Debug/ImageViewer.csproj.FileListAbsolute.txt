@@ -1,0 +1,17 @@
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\bin\Debug\ImageViewer.exe.config
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\bin\Debug\ImageViewer.exe
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\bin\Debug\ImageViewer.pdb
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\obj\Debug\ImageViewer.csproj.AssemblyReference.cache
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\obj\Debug\ImageViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\obj\Debug\ImageViewer.Form1.resources
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.cache
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\obj\Debug\ImageViewer.csproj.CoreCompileInputs.cache
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\obj\Debug\ImageViewer.exe
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\obj\Debug\ImageViewer.pdb
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\obj\Debug\ImageViewer.csproj.CopyComplete
+C:\Users\runni\Documents\Csharp\Project\ImageViewer\obj\Debug\ImageViewer.Form2.resources
